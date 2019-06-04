@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Go_Bang</string>
+    <string name="title_activity_driver_maps">Map</string>
+    <string name="title_activity_user_map">Map</string>
+</resources>
